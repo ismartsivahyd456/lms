@@ -1,0 +1,6 @@
+projectKey=lms
+serverUrl=http://3.104.54.103:9000
+serverVersion=10.1.0.73491
+dashboardUrl=http://3.104.54.103:9000/dashboard?id=lms
+ceTaskId=AYo7gvhzke34OpJfpuxq
+ceTaskUrl=http://3.104.54.103:9000/api/ce/task?id=AYo7gvhzke34OpJfpuxq
